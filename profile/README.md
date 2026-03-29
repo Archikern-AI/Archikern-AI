@@ -28,7 +28,7 @@ Right now, I’m deep in the "wiring" phase. I’m currently refining the OODA e
 The first "Genesis" build is expected to drop in the next 15 to 20 days.
 
 🛡 Identity
-Lead Architect: THE ARCHITECT
+Lead : THE ARCHITECT
 
 Email: tempprojectmail@yandex.com (Temporary)
 
