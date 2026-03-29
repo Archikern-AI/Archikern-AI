@@ -14,7 +14,7 @@ Instead of relying on one LLM, Archikern orchestrates a **multi-model debate sys
 
 * Models don't just respond
 * They **argue, verify, and refine**
-* Until the result survives execution
+* — until the result survives execution
 
 ---
 
@@ -23,7 +23,7 @@ Instead of relying on one LLM, Archikern orchestrates a **multi-model debate sys
 * Multi-model orchestration (local + API)
 * OODA-based iterative reasoning loop
 * Sandbox-validated outputs
-* VRAM-optimized execution (4–6GB GPUs)
+* Designed for lightweight model training and fine-tuning within 4–6GB VRAM constraints
 
 ---
 
