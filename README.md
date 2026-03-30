@@ -33,7 +33,7 @@ Currently in **final internal development phase**.
 
 The first public release (**Genesis Build**) will be available in:
 
-> ⏳ ~15–20 days
+> ⏳ ~30 days
 
 ---
 
