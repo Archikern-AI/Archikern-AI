@@ -4,8 +4,6 @@
 
 Archikern-AI is an experimental **AI Decision Kernel** built on a simple premise:
 
-> A single model should never be trusted with the final answer.
-
 Instead of relying on one LLM, Archikern orchestrates a **multi-model debate system** where models generate, audit, and challenge each other until a reliable outcome is reached.
 
 ---
@@ -31,7 +29,7 @@ Instead of relying on one LLM, Archikern orchestrates a **multi-model debate sys
 
 Currently in **final internal development phase**.
 
-The first public release (**Genesis Build**) will be available in:
+The first public release will be available in:
 
 > ⏳ ~30 days
 
@@ -40,5 +38,3 @@ The first public release (**Genesis Build**) will be available in:
 ## 👤 Identity
 
 **Lead:** THE ARCHITECT
-
-> "Intelligence is the result of a hard-fought argument."
