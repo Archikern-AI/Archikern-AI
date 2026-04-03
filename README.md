@@ -29,10 +29,6 @@ Instead of relying on one LLM, Archikern orchestrates a **multi-model debate sys
 
 Currently in **final internal development phase**.
 
-The first public release will be available in:
-
-> ⏳ ~30 days
-
 ---
 
 ## 👤 Identity
