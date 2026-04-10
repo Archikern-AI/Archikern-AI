@@ -30,7 +30,3 @@ Instead of relying on one LLM, Archikern orchestrates a **multi-model debate sys
 Currently in **final internal development phase**.
 
 ---
-
-## 👤 Identity
-
-**Lead:** THE ARCHITECT
